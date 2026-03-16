@@ -1,0 +1,12 @@
+# Terraform for DevOps
+
+- [Terraform](https://www.terraform.io/) is an open-source infrastructure as code software tool created by HashiCorp. It allows users to define and provision data center infrastructure using a high-level configuration language known as HashiCorp Configuration Language (HCL), or optionally JSON.
+
+## Why Terraform?
+- **Infrastructure as Code**: Terraform allows you to manage your infrastructure using code, which can be versioned and treated as you would any other code. This makes it easier to track changes and collaborate with others.
+- **Multi-Cloud Support**: Terraform supports multiple cloud providers, including AWS, Azure, Google Cloud, and many others. This allows you to manage your infrastructure across different platforms using a single tool.
+- **Declarative Configuration**: With Terraform, you can define your infrastructure in a declarative manner. You specify the desired state of your infrastructure, and Terraform takes care of creating, updating, or deleting resources to achieve that state.
+- **Plan and Apply**: Terraform provides a two-step process for managing infrastructure. First, you can run `terraform plan` to see what changes will be made to your infrastructure, and then you can run `terraform apply` to execute those changes. This allows you to review and approve changes before they are made.
+- **State Management**: Terraform keeps track of the state of your infrastructure, which allows it to determine what changes need to be made when you run `terraform apply`. This state can be stored locally or remotely, and it helps ensure that your infrastructure is always in sync with your configuration.
+- **Modularity**: Terraform allows you to create reusable modules, which can help you organize your infrastructure code and promote best practices. Modules can be shared and reused across different projects, making it easier to maintain and scale your infrastructure.
+- **Community and Ecosystem**: Terraform has a large and active community, which means there are many resources, tutorials, and modules available to help you get started and solve common problems. The Terraform Registry also provides a wide range of pre-built modules for various use cases.
