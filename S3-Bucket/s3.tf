@@ -8,11 +8,11 @@ resource "random_id" "s3_unique_name" {
 
 # Creates an s3 bucket
 resource "aws_s3_bucket" "tf_bucket" {
-  bucket = "my-sample-bucket-${random_id.s3_unique_name.hex}"
+  bucket = "my-sample-bucket-change-vs-${random_id.s3_unique_name.hex}"
 
   # Prevent accidental deletion
   lifecycle {
-    prevent_destroy = true
+    prevent_destroy = false
   }
 
   tags = {
