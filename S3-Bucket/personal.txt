@@ -1,0 +1,42 @@
+- This is for the testing of S3 Bucket scanning for AWS Macie
+
+Find Free Public Data Sets for Your Data Science & Data Analytics Projects
+Completing your first project is a major milestone on the road to becoming a data scientist and helps to both reinforce your skills and provide something you can discuss during the interview process. It’s also an intimidating process. The first step is to find an appropriate, interesting data set. You should decide how large and how messy a data set you want to work with; while cleaning data is an integral part of data science, you may want to start with a clean data set for your first project so that you can focus on the analysis rather than on cleaning the data.
+
+We’ve selected data sets of varying types and complexity that we think work well for first projects (some of them work for research projects as well!). These data sets cover a variety of sources: demographic data, economic data, text data, and corporate data.
+
+1. United States Census Data
+
+
+Name,Email,CreditCard
+John Doe,john@example.com,4111-1111-1111-1111
+Jane Smith,jane@test.com,5555-5555-5555-5555
+
+Employee Details:
+Name: Rahul Sharma
+Aadhaar: 1234 5678 9012
+PAN: ABCDE1234F
+Phone: +91 98765 43210
+Email: rahul.sharma@company.com
+
+Find Free Public Data Sets for Your Data Science & Data Analytics Projects
+Completing your first project is a major milestone on the road to becoming a data scientist and helps to both reinforce your skills and provide something you can discuss during the interview process. It’s also an intimidating process. The first step is to find an appropriate, interesting data set. You should decide how large and how messy a data set you want to work with; while cleaning data is an integral part of data science, you may want to start with a clean data set for your first project so that you can focus on the analysis rather than on cleaning the data.
+
+We’ve selected data sets of varying types and complexity that we think work well for first projects (some of them work for research projects as well!). These data sets cover a variety of sources: demographic data, economic data, text data, and corporate data.
+
+1. United States Census Data
+
+{
+  "database": {
+    "username": "admin",
+    "password": "P@ssw0rd2026!Secret"
+  },
+  "api_key": "AKIAIOSFODNN7EXAMPLE"
+}
+
+Find Free Public Data Sets for Your Data Science & Data Analytics Projects
+Completing your first project is a major milestone on the road to becoming a data scientist and helps to both reinforce your skills and provide something you can discuss during the interview process. It’s also an intimidating process. The first step is to find an appropriate, interesting data set. You should decide how large and how messy a data set you want to work with; while cleaning data is an integral part of data science, you may want to start with a clean data set for your first project so that you can focus on the analysis rather than on cleaning the data.
+
+We’ve selected data sets of varying types and complexity that we think work well for first projects (some of them work for research projects as well!). These data sets cover a variety of sources: demographic data, economic data, text data, and corporate data.
+
+1. United States Census Data
